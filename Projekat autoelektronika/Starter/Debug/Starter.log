@@ -1,0 +1,11 @@
+﻿  main_application.c
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(452,17): warning C4244: 'return': conversion from 'procenat_t' to 'int32_t', possible loss of data
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(554,79): warning C4244: '=': conversion from 'int32_t' to 'procenat_t', possible loss of data
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(560,79): warning C4244: '=': conversion from 'int32_t' to 'procenat_t', possible loss of data
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(566,79): warning C4244: '=': conversion from 'int32_t' to 'procenat_t', possible loss of data
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(625,48): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(646,12): warning C4090: 'function': different 'volatile' qualifiers
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(944,34): warning C4090: 'function': different 'volatile' qualifiers
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(937,10): warning C4101: 'duzina_ispis_niza': unreferenced local variable
+C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Starter\main_application.c(1008,34): warning C4090: 'function': different 'volatile' qualifiers
+  Starter.vcxproj -> C:\Users\sefpo\Desktop\Autoelektronika-vezbe-main\v11\Projekat autoelektronika\Debug\Starter.exe
